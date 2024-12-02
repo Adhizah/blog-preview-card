@@ -70,4 +70,4 @@ I used the `box-shadow` property to add depth to the `.content` section, making 
 - Frontend Mentor - [@Adhizah](https://www.frontendmentor.io/profile/adhizah)
 
  ## Acknowledgments
-A big thank you to a course mate for their guidance and support throughout this project. Their insights and help were greatly appreciated!
+A big thank you to a senior for their guidance and support throughout this project. Their insights and help were greatly appreciated!
